@@ -1,2 +1,0 @@
-# Carpeta para audio
-Copiá tu archivo musica.mp3 aquí
